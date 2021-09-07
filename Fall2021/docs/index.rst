@@ -3,15 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-COE 332: Software Engineering & Design
-======================================
+SDS 322/392: Introduction to Scientigic Programming
+===================================================
 
-The objective of this course is to introduce students to advanced computing
-concepts in software engineering, software systems design, cloud computing and
-distributed systems, and computational engineering. Through a series of
-assignments spanning the course of the semester, students will build a
-cloud-based, computational system to analyze a time series dataset and provide a
-web-accessible interface to their system.
+Welcome
 
 
 .. toctree::
@@ -21,16 +16,7 @@ web-accessible interface to their system.
    week01/overview
    week02/overview
    week03/overview
-   week04/overview
-   week06/overview
-   week07/overview
-   week08/overview
-   week09/overview
-   week10/overview
-   week11/overview
-   week12/overview
-   week13/overview
-   week14/overview
+
 
 
 .. toctree::
